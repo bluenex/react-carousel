@@ -1,4 +1,6 @@
 {
+  "name": "@bluenex/react-carousel",
+  "version": "2.0.2",
   "private": true,
   "workspaces": [
     "docs-www",
